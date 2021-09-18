@@ -39,4 +39,4 @@ Given the pandemic situation all the international centers have been cancelled f
 |Probability and Statistics|Random variables. Uniform, normal, exponential, poisson and binomial distributions. Mean, median, mode and standard deviation. Conditional probability and Bayes theorem. Computer Science and Information Technology |||
 ||||
 
-[Road Map by Gate Smashers](https://whimsical.com/complete-road-map-for-gate-exam-Tv5TXthinfDbe6Pnv1m3r)
+Road Map by Gate Smashers [click here](https://whimsical.com/complete-road-map-for-gate-exam-Tv5TXthinfDbe6Pnv1m3r)
