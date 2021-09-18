@@ -20,7 +20,7 @@ Given the pandemic situation all the international centers have been cancelled f
 |Announcement of the Results in the Online Application Portal	|Thursday|	17th March 2022|
 ||||
 
-## Detail Syllabus And  Weitage of Each Subjcet
+## Detail Syllabus And  Weitage of Each Subjcet (on the basis of Gate-2021)
 |Sunject|Topics|Marks|You Tube Playlists|
 |--|--|--|--|
 |Computer Organization and Architecture|Machine instructions and addressing modes. ALU, data-path and control unit. Instruction pipelining,pipeline hazards. Memory hierarchy: cache, main memory and secondary storage; I/O interface (interrupt and DMA mode).| | [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)|
