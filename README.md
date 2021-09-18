@@ -51,3 +51,11 @@ Road Map by Gate Smashers [click here](https://whimsical.com/complete-road-map-f
 5. TOC (7-10 marks)
 6. DLD and COA both combine (11 - 14 marks)
 7. Eng. Maths and DM both combine (11-17 marks)
+
+## GATE CSE Marking Scheme 2022
+- The paper is of 100 marks and the total number of questions is 65
+- The language of the paper is English.
+- MCQs - 1 Marks – For each right answer; 1/3 marks will be deducted for each wrong answer. 
+- MCQs - 2 Marks – For each right answer; 2/3 marks will be deducted for each of the wrong answers.
+- NAT – There is no negative checking for Numerical Answer Type (NAT) questions. 
+- MSQ – There is no negative marking for a wrong answer in MSQ questions. However, there are no partial marks awarded for choosing partially correct combinations of choices or any single wrong choice
